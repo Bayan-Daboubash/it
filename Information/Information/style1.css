@@ -1,0 +1,9 @@
+.a1 {
+    text-align: center; font-size: 15pt
+}
+.a2 {
+    padding-top: 0.2cm ; padding-bottom: 0.2cm ;
+    padding-left: 1.5cm ; padding-right: 1.5cm ;
+    background-color: white ; border-color: green;
+    border-width: 0.08cm  ; font-size: 13pt
+}
